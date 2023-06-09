@@ -1,65 +1,25 @@
-# REACT.JS
+<!-- Título -->
+# Comunicação HTTPS e SSH
 
-***Aulas:***
+***Conteúdo do Módulo:***
 
-- [ ] Introdução e Instalação.
-- [ ] Olá Mundo em React.js.
-- [ ] Introdução ao JSX.
-- [ ] Instalando Babel no Sublime Text.
-- [ ] JSX e react.createElement.
-- [ ] Como Funciona a Rederização.
-- [ ] Introdução a Componentes e Props (Parte 1).
-- [ ] Introdução a Componentes e Props (Parte 2).
-- [ ] State nos Componentes.
-- [ ] Ciclo de Vida dos Componentes.
-- [ ] Eventos em Componentes.
-- [ ] Rederização Condicional.
-- [ ] Condicional Inline.
-- [ ] Listas.
-- [ ] Controlando Formulários — Valores.
-- [ ] Controlando Formulários — Eventos.
-- [ ] Controlando Formulários — Múltiplos Inputs.
-- [ ] Ações Fora do Componente.
-- [ ] Comunicação Entre Componentes.
-- [ ] Exercício — Conversor de Moedas (Via-dupla).
-- [ ] Exercício — Sinal de Trânsito.
-- [ ] Exercício — To-do com Busca.
-- [ ] Exercício — Feed do Instragram.
-- [ ] Exercício — Tabela com Edição via Modal.
-- [ ] Interpretado In-Browser vs Pré-compilado.
-- [ ] Projeto Pré-compilado (Parte 1).
-- [ ] Projeto Pré-compilado (Parte 2).
-- [ ] Estrutura de um Projeto (Parte 1).
-- [ ] Estrutura de um Projeto (Parte 2).
-- [ ] Instalando Servidor Local.
-- [ ] React.js — Router (Parte 1).
-- [ ] React.js — Router (Parte 2).
-- [ ] React.js — Router (Parte 3).
-- [ ] Criando o Config.
-- [ ] Bundle Básico.
-- [ ] Requisição — Simples.
-- [ ] Requisição — Lista.
-- [ ] Requisição — Post com Dados.
-- [ ] Projeto — Exibindo os Filmes em Cartaz.
-- [ ] Exercício — Criando um Carrinho de Compras.
-- [ ] Exercício — Cadastro de Usuários.
-- [ ] Projeto — Sistema de Login (Parte 1).
-- [ ] Projeto — Sistema de Login (Parte 2).
-- [ ] Projeto — Sistema de Login (Parte 3).
-- [ ] Projeto — Sistema de Login (Parte 4).
+* [ ] [Utilizando HTTPS Para Comunicação.](https://github.com/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas) &#128679;
+* [ ] [Utilizando SSH Para Comunicação.](https://github.com/Devsgeeknerd/cla-uti-ssh-par-com-com-htt-ssh-git-fun-bas) &#128679;
+* [ ] [Enviando e Recebendo Commits.](https://github.com/Devsgeeknerd/cla-env-rec-com-com-htt-ssh-git-fun-bas) &#128679;
 
-## INFORMAÇÕES
+<!-- Informações -->
+## &#8505; Informações
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.react.js-front-end-zp "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-com-htt-ssh-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/react.js-front-end-zp?style=social "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/react.js-front-end-zp?style=social "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/react.js-front-end-zp?style=social "Total de Forks")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/react.js-front-end-zp?style=social "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/react.js-front-end-zp?style=social "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
