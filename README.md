@@ -4,7 +4,7 @@
 ***Conteúdo do Módulo:***
 
 * [x] [Utilizando HTTPS Para Comunicação.](https://github.com/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas)
-* [ ] [Utilizando SSH Para Comunicação.](https://github.com/Devsgeeknerd/cla-uti-ssh-par-com-com-htt-ssh-git-fun-bas) &#128679;
+* [x] [Utilizando SSH Para Comunicação.](https://github.com/Devsgeeknerd/cla-uti-ssh-par-com-com-htt-ssh-git-fun-bas)
 * [ ] [Enviando e Recebendo Commits.](https://github.com/Devsgeeknerd/cla-env-rec-com-com-htt-ssh-git-fun-bas) &#128679;
 
 <!-- Informações -->
